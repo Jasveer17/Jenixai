@@ -764,9 +764,9 @@ const App = () => {
             
             {/* Contact Details Grid */}
             <div className="flex flex-col md:flex-row justify-center gap-6 mb-10 text-sm">
-               <a href="mailto:info@jenixmedia.com" className="flex items-center justify-center gap-3 px-6 py-3 bg-black/50 rounded-full border border-white/10 hover:border-cyan-500/50 hover:text-cyan-400 transition-all group">
+               <a href="mailto:info@jenixmedia.live" className="flex items-center justify-center gap-3 px-6 py-3 bg-black/50 rounded-full border border-white/10 hover:border-cyan-500/50 hover:text-cyan-400 transition-all group">
                   <Mail size={16} className="text-cyan-400 group-hover:scale-110 transition-transform" />
-                  <span className="text-gray-300 group-hover:text-white">info@jenixmedia.com</span>
+                  <span className="text-gray-300 group-hover:text-white">info@jenixmedia.live</span>
                </a>
                <a href="tel:+919220271117" className="flex items-center justify-center gap-3 px-6 py-3 bg-black/50 rounded-full border border-white/10 hover:border-cyan-500/50 hover:text-cyan-400 transition-all group">
                   <Phone size={16} className="text-cyan-400 group-hover:scale-110 transition-transform" />
